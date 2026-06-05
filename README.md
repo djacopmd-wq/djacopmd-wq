@@ -1,16 +1,27 @@
-## Hi there 👋
+<h3 align="center">Merhaba, ben Yakup 👋 · Hi, I'm Yakup</h3>
+<p align="center">📱 Mobil uygulama geliştiricisi · Mobile app developer</p>
 
-<!--
-**djacopmd-wq/djacopmd-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Gündelik hayattaki gerçek sorunları çözen mobil uygulamalar geliştiriyorum. İlki: **HemşireM**.
+> *I build mobile apps that solve real, everyday problems. First up: **HemşireM**.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Üzerinde çalıştığım · What I'm building
+**HemşireM** — hemşireler için nöbet & çizelge uygulaması *(a shift & scheduling app for nurses)*
+- 📴 **Offline-öncelikli** — serviste sinyal olmadan da çalışır *(offline-first)*
+- ☁️ **Bulut senkronizasyonu** — sorumlu hemşire listeyi yayınlar, ekip tek kodla katılır *(optional cloud sync)*
+- 🔁 Nöbet değişimi, otomatik çizelge, sağlık haberleri *(swaps · auto-scheduling · health news)*
+
+### 🛠️ Teknolojiler · Tech
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-local--first-FFC100)
+![Riverpod](https://img.shields.io/badge/Riverpod-state-1389FD)
+
+### 💡 Biraz daha · A bit more
+- 🇹🇷 Türkiye'den, iki dilli (TR/EN) sürüm yolunda
+- 🌱 Açıkça geliştiriyorum, her gün öğreniyorum *(building in public)*
+- 💬 Flutter, mobil geliştirme veya "sıfırdan yayına" üzerine konuşmaya varım *(happy to chat)*
+
+<p align="center"><i>"Nöbetlerin tek yerde." · All your shifts in one place.</i></p>
