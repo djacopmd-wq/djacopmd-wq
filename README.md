@@ -1,5 +1,5 @@
 <h3 align="center">Merhaba, ben Yakup 👋 · Hi, I'm Yakup</h3>
-<p align="center">📱 Mobil uygulama geliştiricisi · Mobile app developer</p>
+<p align="center">📱 Indie mobil uygulama geliştiricisi · Indie mobile app developer</p>
 
 ---
 
